@@ -1,1 +1,1 @@
-multipass delete minecraft --purge
+multipass delete local-vm --purge
